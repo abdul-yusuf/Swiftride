@@ -1,0 +1,17 @@
+.hero {
+    height: 80vh;
+    padding: 40px;
+}
+
+.hero text_holder{
+    width: 40vw;
+    position: absolute;
+    left: 10px;
+    bottom: 10px;
+}
+
+.hero img{
+    width: 100%;
+    height: auto;
+    opacity: 0.3;
+}
